@@ -1,0 +1,41 @@
+body {
+    background-image: url('https://data.1freewallpapers.com/detail/balls-football-basketball-sports.jpg');
+}
+
+header, footer {
+    text-align: center;
+    color: aquamarine;
+    background-color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0.5px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    color: black;
+}
+
+article {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: blue;
+    padding: 10px;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: dotted blue 1px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topo {
+    text-align: right;
+}
+
+main {
+    padding: 50px;
+}
